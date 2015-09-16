@@ -4,4 +4,8 @@
 * Fixed Income Analysis
 * Time series
 * Oral English
+<<<<<<< HEAD
 
+=======
+* Nonparameter Econ
+>>>>>>> e410c3ec35d51fb3270004de486c770962f4d106
